@@ -3,6 +3,9 @@
 /out/
 /*.iml
 
+# VS Code files
+.vscode/
+
 # Gradle build files
 /.gradle/
 /build/
@@ -12,4 +15,3 @@ src/main/resources/docs/
 .DS_Store
 *.iml
 bin/
-
